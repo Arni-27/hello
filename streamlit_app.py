@@ -1,4 +1,4 @@
- import streamlit as st 
+import streamlit as st 
 
 st.title("_hitung_ is :blue[luas lingkaran] :rocket:")
 
