@@ -8,4 +8,4 @@ t = st. numbet_input("Masukan Tinggi (cm) : ", 0)
 
 if st.button("hitung luas lingkaran", type="primary"):
    v = math.pi*(r**2)
-st.succes(f'Volume tabung adalah {v:2f}')
+st.succes(f'luas lingkaran adalah {v:2f}')
