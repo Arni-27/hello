@@ -7,4 +7,4 @@ r = st.number_input("Masukan Jari-Jari (cm):",0)
 
 if st.button("hitung luas lingkaran", type="primary"):
    v = math.pi*(r**2)
-   st.succes(f'luas lingkaran adalah {v:2f}')
+   st.success(f'Luas lingkaran adalah {v:2f}')
